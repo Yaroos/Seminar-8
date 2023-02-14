@@ -1,0 +1,15 @@
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\bin\Debug\net7.0\Task_60.exe
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\bin\Debug\net7.0\Task_60.deps.json
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\bin\Debug\net7.0\Task_60.runtimeconfig.json
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\bin\Debug\net7.0\Task_60.dll
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\bin\Debug\net7.0\Task_60.pdb
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\obj\Debug\net7.0\Task_60.csproj.AssemblyReference.cache
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\obj\Debug\net7.0\Task_60.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\obj\Debug\net7.0\Task_60.AssemblyInfoInputs.cache
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\obj\Debug\net7.0\Task_60.AssemblyInfo.cs
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\obj\Debug\net7.0\Task_60.csproj.CoreCompileInputs.cache
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\obj\Debug\net7.0\Task_60.dll
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\obj\Debug\net7.0\refint\Task_60.dll
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\obj\Debug\net7.0\Task_60.pdb
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\obj\Debug\net7.0\Task_60.genruntimeconfig.cache
+E:\LEARNING_PYTHON\3 Блок. Знакомство с языками программирования. C#\Practice_Work\Seminars_8_HomeWork\Task_60\obj\Debug\net7.0\ref\Task_60.dll
